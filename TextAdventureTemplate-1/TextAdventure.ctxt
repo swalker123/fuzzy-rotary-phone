@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TextAdventure
+comment1.params=
+comment1.target=TextAdventure()
+comment2.params=
+comment2.target=void\ play()
+comment3.params=
+comment3.target=void\ enterVillage()
+comment4.params=
+comment4.target=void\ enterObsidian()
+comment5.params=
+comment5.target=void\ enterNether()
+comment6.params=
+comment6.target=void\ enterFortress()
+comment7.params=
+comment7.target=void\ enterBastion()
+comment8.params=
+comment8.target=void\ gameEnd()
+numComments=9
